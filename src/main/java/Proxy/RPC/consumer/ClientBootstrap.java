@@ -1,6 +1,6 @@
-package Proxy.consumer;
+package Proxy.RPC.consumer;
 
-import Proxy.publicInterface.HelloService;
+import Proxy.RPC.publicInterface.HelloService;
 
 public class ClientBootstrap {
 

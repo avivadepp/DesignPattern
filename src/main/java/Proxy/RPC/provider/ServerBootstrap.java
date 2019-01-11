@@ -1,4 +1,4 @@
-package Proxy.provider;
+package Proxy.RPC.provider;
 
 public class ServerBootstrap {
     public static void main(String[] args) {

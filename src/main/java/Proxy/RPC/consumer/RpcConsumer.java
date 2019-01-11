@@ -1,4 +1,4 @@
-package Proxy.consumer;
+package Proxy.RPC.consumer;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelInitializer;

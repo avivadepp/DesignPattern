@@ -1,6 +1,6 @@
-package Proxy.provider;
+package Proxy.RPC.provider;
 
-import Proxy.publicInterface.HelloService;
+import Proxy.RPC.publicInterface.HelloService;
 
 //委托类
 public class HelloServiceImpl implements HelloService {

@@ -1,4 +1,4 @@
-package Proxy.consumer;
+package Proxy.RPC.consumer;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

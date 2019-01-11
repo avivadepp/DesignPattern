@@ -1,6 +1,6 @@
-package Proxy.provider;
+package Proxy.RPC.provider;
 
-import Proxy.consumer.ClientBootstrap;
+import Proxy.RPC.consumer.ClientBootstrap;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 
